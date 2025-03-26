@@ -1,0 +1,55 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(161, 137, 142);
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+
+.clock {
+    padding: 3rem;
+    font-size: 4rem;
+    color: #fff;
+    text-align: center;
+}
+
+button {
+    font: 100 1.5rem "sans-serif";
+    width: 200px;
+    margin: 30px;
+    padding: 1.25rem;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    background-color: white;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+button:hover {
+    background-color: rgb(160, 86, 233);
+    color: white;
+}
+
+.btn1:hover{
+
+  background-color: green;
+
+}
+
+.btn2:hover{
+
+  background-color: red;
+  
+}
+ 
