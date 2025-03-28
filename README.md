@@ -1,2 +1,2 @@
 # Timer-Watch
-A timer or countdown timer is a type of clock that starts from a specified time duration and stops upon reaching 00:00. 
+"stop and start watch," commonly known as a stopwatch, is a timepiece designed to measure elapsed time, featuring  start/stop buttons......
